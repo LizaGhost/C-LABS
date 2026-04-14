@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab2/1.0.0": {
+        "dependencies": {
+          "Yureva1": "1.0.0",
+          "lab1": "1.0.0"
+        },
+        "runtime": {
+          "lab2.dll": {}
+        }
+      },
+      "lab1/1.0.0": {
+        "dependencies": {
+          "Yureva1": "1.0.0"
+        },
+        "runtime": {
+          "lab1.dll": {}
+        }
+      },
+      "Yureva1/1.0.0": {
+        "runtime": {
+          "Yureva1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yureva1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
