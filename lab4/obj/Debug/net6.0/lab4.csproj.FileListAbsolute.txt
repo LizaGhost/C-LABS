@@ -1,0 +1,15 @@
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.AssemblyInfoInputs.cache
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.AssemblyInfo.cs
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.csproj.CoreCompileInputs.cache
+D:\прочее\Yureva2\lab4\bin\Debug\net6.0\lab4.exe
+D:\прочее\Yureva2\lab4\bin\Debug\net6.0\lab4.deps.json
+D:\прочее\Yureva2\lab4\bin\Debug\net6.0\lab4.runtimeconfig.json
+D:\прочее\Yureva2\lab4\bin\Debug\net6.0\lab4.dll
+D:\прочее\Yureva2\lab4\bin\Debug\net6.0\lab4.pdb
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.dll
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\refint\lab4.dll
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.pdb
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.genruntimeconfig.cache
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\ref\lab4.dll
+D:\прочее\Yureva2\lab4\obj\Debug\net6.0\lab4.csproj.AssemblyReference.cache
